@@ -1,2 +1,2 @@
 # Fighting-Corona-Qt-Game
-My first QT game
+I created my game using QT.
